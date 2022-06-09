@@ -30,6 +30,6 @@ func main() {
 	)
 
 	fmt.Println(firstName)
-	fmt.Println(lastName)
+	fmt.Pclerintln(lastName)
 
 }
