@@ -9,3 +9,5 @@ I learn:
 - Go Modules
 - Go HTTP
 - Go Routes
+- Go Middleware
+- Go Modules
