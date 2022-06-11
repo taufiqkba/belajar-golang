@@ -1,8 +1,6 @@
 package main
 
-import (
-	"fmt"
-)
+import "fmt"
 
 func main() {
 
@@ -12,15 +10,8 @@ func main() {
 		value            = 1000
 	)
 
-	//fmt.Println(lastName)
-	fmt.Println(firstName)
+	//fmt.Println(firstName)
+	fmt.Println(lastName)
 	fmt.Println(value)
-
-	const (
-		numb1 = 123
-		numb2 = 456
-	)
-
-	fmt.Println(numb1 + numb2)
 
 }
